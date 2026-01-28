@@ -23,7 +23,7 @@ export default async function HomePage() {
               Innovative Projects <br className="hidden md:block" /> Built With Bifrost
             </h1>
             <p className="text-base md:text-lg text-gray-500 max-w-2xl mx-auto leading-relaxed mb-10">
-              Discover amazing projects, tools, and applications created by the community using the Bifrost AI infrastructure.
+              Discover amazing projects, tools, and applications created by the community using Bifrost by Maxim AI.
             </p>
 
             <div className="flex justify-center gap-4">
